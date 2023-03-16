@@ -16,7 +16,7 @@
 <h2>How to Contribute</h2>
 <p>Any modifications or improvements to the website are welcome. To contribute, simply create a fork of the repository and make the desired changes. Once the changes are complete, submit a pull request to merge the changes into the main repository.</p>
 <h2>Website Limitations</h2>
-<a>https://angibogi.github.io/Grace-Murray-Hopper/</a>
+<a href="https://angibogi.github.io/Grace-Murray-Hopper/"</a>
 <h2>Technologies used </h2>
 <p> HTML5  :heavy_check_mark: </p>
 <p> CSS  :heavy_check_mark: </p>
