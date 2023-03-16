@@ -15,17 +15,13 @@
 <p>As mentioned, the website was not designed to be responsive. Therefore, it may not be displayed correctly on devices with smaller screen sizes.</p>
 <h2>How to Contribute</h2>
 <p>Any modifications or improvements to the website are welcome. To contribute, simply create a fork of the repository and make the desired changes. Once the changes are complete, submit a pull request to merge the changes into the main repository.</p>
-
-
+<h2>Website Limitations</h2>
+<a>https://angibogi.github.io/Grace-Murray-Hopper/</a>
 <h2>Technologies used </h2>
-
 <p> HTML5  :heavy_check_mark: </p>
 <p> CSS  :heavy_check_mark: </p>
-
-
 <h2>Info</h2>
 Responsive :x:
-
 <h2>License</h2>
 <p>The website source code is released under the MIT license. For more information about the license, refer to the LICENSE file in the repository.</p>
 
